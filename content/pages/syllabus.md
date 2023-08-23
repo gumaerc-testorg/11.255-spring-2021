@@ -1,0 +1,98 @@
+---
+content_type: page
+description: This page presents the general description, plan, and course policies
+  for 11.255 Negotiation and Dispute Resolution in the Public Sector.
+draft: false
+title: Syllabus
+uid: 2af8d3ef-aa4a-424e-bb25-3a50bc07dd72
+---
+## Class Meeting Times
+
+2 sessions / week; 2 hours / session
+
+## Prerequisites
+
+None
+
+## Course Description
+
+Conventional legislative, administrative, and judicial means of resolving resource allocation and policy disputes in the public sector often produce less than satisfactory results. This is true in democracies around the world. Planners, policy-makers, developers, and advocates of the poor who are concerned about the fairness, efficiency, stability, and wisdom of public sector decision-making are searching for better ways of resolving public policy disagreements. Recent advances in the theory and practice of multi-party negotiation and dispute resolution are, therefore, of great interest. 
+
+This seminar is designed for graduate students with no prior background or experience in the fields of negotiation or dispute resolution. Lectures, scenarios, case studies, video analysis, and role-play simulations are used to introduce students to the "art" and "science" of negotiation and consensus building (or collaboration). The class also provides an intensive opportunity for each student to build his or her personal theory of practice and to strengthen their negotiating capabilities. 
+
+Some of the most important work in the field of dispute resolution is being done at the inter-university [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard Law School (PON). The Department of Urban Studies and Planning is well represented at the Program through the work of students and faculty affiliated with the MIT-Harvard Public Disputes Program. 11.255 builds on the research at PON. 
+
+## Course Logistics and Participation 
+
+### Required Texts 
+
+Roger Fisher and William Ury, *Getting to Yes*, 3rd edition (Penguin, New York), 2011. ISBN: 9780143118756. This is a short paperback. Please read before the 5th class session. 
+
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987. ISBN: 9780465007509. This is background reading. Please read the first four chapters before the 2nd class session. 
+
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6th class session. 
+
+Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253. Kindle version available online from Amazon. 
+
+### Role-play Simulation (RPS) Exercises
+
+Participation in all of the role-play simulations is required. Short self-reflection memos reviewing the results of each of the negotiation simulations are required from all students for every game. RPS negotiations will be videotaped to enhance student learning. After each RPS exercise, students are required to provide written feedback (1–2 paragraphs) to their respective partners. 
+
+### Scenarios
+
+Every student is expected to come to class familiar with the assigned scenarios - when applicable - and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
+
+All negotiation self-reflection memos and scenario framing memos must be posted on the 11.255 canvas class site as PDF documents by the assigned due date. Please do not submit assignments as Word documents or in other formats.
+
+### Making Up Missed Negotiation Simulations
+
+Participation in all of the role-play simulations is required. If a student misses a negotiation simulation, it is that student’s responsibility to make up the missed work on their own time, either with classmates or friends. Students should arrange to get game materials for the make-up simulations from Lidia. Students are expected to complete the simulation and submit their reflections by the original due date, unless otherwise arranged with the teaching staff.
+
+### Synchronous Lectures
+
+Students are required to attend all scheduled class sessions. Due to the nature of the course every class is meant to be synchronous. As noted above class participation is an important part of the class, and students are expected to be present synchronously for all lectures and negotiations. Sessions will be recorded and will be made available online for one week to help students stay up to date if they are unable to attend a class session. Recordings are only for use by students in the class. 
+
+### Role Play Self-Reflection Memos
+
+Following each negotiation simulation, all students are responsible for assessing their own performance and commenting on what worked well and less well. Each student will prepare a personal reflection (one-page) reviewing what they learned from the role play about their own negotiating capabilities. 
+
+### Negotiating Partner Feedback 
+
+Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one-to-two-paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy Lidia.
+
+### Guidelines for Scenario Leaders
+
+Scenario leaders are responsible for preparing a 1–2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to canvas one day before class the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
+
+- Identify the choices that the stakeholders in the scenario must make;     
+- Determine which principles the stakeholders should (or might) rely on in making these choices;     
+- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities; and    
+- Assess potential problems that the stakeholders may encounter. 
+
+Through the exchange of perspectives on these issues, students will have an opportunity to think hard about their personal theories of practice, improve their ability to analyze negotiation and dispute resolution  situations, and craft appropriate negotiation strategies. 
+
+### Video Presentations 
+
+Every student will be asked to make one video presentation. Once the class roster is final, each student will be assigned to one of the RPS exercises. On the day of the RPS exercise, each assigned student will be asked to video record one of the breakout groups conducting their negotiation exercise. This footage will then need to be edited into a “highlight reel” of no more than 5–6 minutes. Titles and subtitles can be added. The point of the video is to document how the videographer thinks the negotiators handled important aspects of the assignment. Each video producer will lead a short class discussion of his or her composite video.
+
+## Grading Policies
+
+Grades are based on the various course elements as follows:   
+
+- Facilitation of two scenario discussions, including the preparation of two framing memos in advance: 20%
+- Self-reflection memos (no more than 500 words), one for each game, and feedback (1 to 2 paragraphs) to each student’s negotiating partner, one for each game: 30%
+- Video presentation: 15%
+- In-class final exam: 20%
+- Class participation/attendance, especially in role plays: 15%
+
+Self-reflection memos and scenario framing memos will be graded as follows:     
+
+- Memos that show only a minimal attempt to address the questions or the assigned material, or which are poorly written, will receive a check-minus (i.e., a grade of C+ to B-).   
+- An acceptable effort will get a check (i.e., a grade of B to A-).   
+- A superior level of effort will get a check-plus (i.e., a grade of A to A+).
+
+Strong self-reflection memos will draw on class readings and lectures to help make sense of the game experience. Strong scenario leadership memos will likewise draw on class readings and lectures to reflect on the scenario.
+
+### Late Assignments
+
+Assignments turned in late will be marked down. Assignments will not be accepted if they are over a week late, unless special arrangements were made with the Instructor.
