@@ -58,6 +58,8 @@ Susskind, Lawrence (2006). ["Arguing, Bargaining and Getting Agreement"](https:
 
 Susskind, Lawrence (2007). ["Consensus Building, Dispute Resolution and Social Justice."](https://ir.lawnet.fordham.edu/ulj/vol35/iss1/7/) *Fordham Urban Law Review* 35(1): 185–203.
 
+Lawrence Susskind (2015). *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation.* Public Affairs, New York. ISBN: 9781610394253.
+
 Susskind, Lawrence, Eileen F. Babbitt, and Phyllis N. Segal (1993). ["When ADR Becomes the Law: A Review of Federal Practice" (PDF).](https://susskindreader.mit.edu/sites/default/files/When%20ADR%20Becomes%20the%20Law.pdf) *Negotiation Journal* 9: 59–75.
 
 Susskind, Lawrence and Jeffrey Cruikshank (1987). *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes*. New York: Basic Books. ISBN: 9780465007509.

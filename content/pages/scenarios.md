@@ -6,7 +6,18 @@ draft: false
 title: Scenarios
 uid: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
 ---
-Every student is expected to come to class familiar with the assigned scenarios - when applicable - and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
+Every student is expected to come to class familiar with the assigned scenarios—when applicable—and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a 1–2 page (single spaced) framing memo and facilitating discussion about the scenario in small groups. 
+
+### Guidelines for Scenario Leaders
+
+Scenario leaders are responsible for preparing a 1–2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to the class site one day before the class in which the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
+
+- Identify the choices that the stakeholders in the scenario must make;     
+- Determine which principles the stakeholders should (or might) rely on in making these choices;     
+- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities; and    
+- Assess potential problems that the stakeholders may encounter. 
+
+Through the exchange of perspectives on these issues, students will have an opportunity to think hard about their personal theories of practice, improve their ability to analyze negotiation and dispute resolution  situations, and craft appropriate negotiation strategies. 
 
 {{% resource_link "593db1b1-549f-42b1-86eb-4b1027a6f444" "Scenario #1: The Traditional Negotiation Game" %}}
 
@@ -18,4 +29,4 @@ Every student is expected to come to class familiar with the assigned scenarios 
 
 {{% resource_link "d385740e-ce43-4798-92a5-9e2f16b929c5" "Scenario #5: Roles and Responsibilities of Public Sector Mediators" %}}
 
-[Scenario #6: A Call to Prayer (PDF)](https://hwpi.harvard.edu/files/pluralism/files/new_a_call_to_prayer_a.pdf)
+[Scenario #6: A Call to Prayer (PDF)](https://hwpi.harvard.edu/files/pluralism/files/new_a_call_to_prayer_a.pdf) \[external link; materials not covered by OCW's Creative Commons license\]
