@@ -20,19 +20,21 @@ Conventional legislative, administrative, and judicial means of resolving resour
 
 This seminar is designed for graduate students with no prior background or experience in the fields of negotiation or dispute resolution. Lectures, scenarios, case studies, video analysis, and role-play simulations are used to introduce students to the "art" and "science" of negotiation and consensus building (or collaboration). The class also provides an intensive opportunity for each student to build his or her personal theory of practice and to strengthen their negotiating capabilities. 
 
-Some of the most important work in the field of dispute resolution is being done at the inter-university [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard Law School (PON). The Department of Urban Studies and Planning is well represented at the Program through the work of students and faculty affiliated with the MIT-Harvard Public Disputes Program. 11.255 builds on the research at PON. 
+Some of the most important work in the field of dispute resolution is being done at the inter-university [Program on Negotiation](https://www.pon.harvard.edu/) at Harvard Law School (PON). The Department of Urban Studies and Planning is well represented at the Program through the work of students and faculty affiliated with the MIT-Harvard Public Disputes Program. This course builds on the research at PON. 
 
 ## Course Logistics and Participation 
 
 ### Required Texts 
 
-Roger Fisher and William Ury, *Getting to Yes*, 3rd edition (Penguin, New York), 2011. ISBN: 9780143118756. This is a short paperback. Please read before the 5th class session. 
+Roger Fisher and William Ury, *Getting to Yes*, 3<sup>rd</sup> edition (Penguin, New York), 2011. ISBN: 9780143118756. This is a short paperback. Please read before the 5<sup>th</sup> class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987. ISBN: 9780465007509. This is background reading. Please read the first four chapters before the 2nd class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking the Impasse: Consensual Approaches to Resolving Public Disputes* (Basic Books, New York), 1987. ISBN: 9780465007509. This is background reading. Please read the first four chapters before the 2<sup>nd</sup> class session. 
 
-Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6th class session. 
+Lawrence Susskind and Jeffrey Cruikshank, *Breaking Robert’s Rules* (Oxford University Press, New York) 2006. ISBN: 9780195308365. This is background reading. Please read Part 1 before the 6<sup>th</sup> class session. 
 
-Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253. Kindle version available online from Amazon. 
+Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Winning at Win-Win Negotiation* (Public Affairs, New York), 2015. ISBN: 9781610394253.
+
+\[For other readings, see the {{% resource_link "844bcf70-9c1d-433f-b805-788ee06f83e7" "Readings" %}} page.\]
 
 ### Role-play Simulation (RPS) Exercises
 
@@ -40,17 +42,17 @@ Participation in all of the role-play simulations is required. Short self-refle
 
 ### Scenarios
 
-Every student is expected to come to class familiar with the assigned scenarios - when applicable - and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
+Every student is expected to come to class familiar with the assigned scenarios—when applicable—and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
 
-All negotiation self-reflection memos and scenario framing memos must be posted on the 11.255 canvas class site as PDF documents by the assigned due date. Please do not submit assignments as Word documents or in other formats.
+All negotiation self-reflection memos and scenario framing memos must be posted on the class site as PDF documents by the assigned due date. Please do not submit assignments as Word documents or in other formats.
 
 ### Making Up Missed Negotiation Simulations
 
-Participation in all of the role-play simulations is required. If a student misses a negotiation simulation, it is that student’s responsibility to make up the missed work on their own time, either with classmates or friends. Students should arrange to get game materials for the make-up simulations from Lidia. Students are expected to complete the simulation and submit their reflections by the original due date, unless otherwise arranged with the teaching staff.
+Participation in all of the role-play simulations is required. If a student misses a negotiation simulation, it is that student’s responsibility to make up the missed work on their own time, either with classmates or friends. Students should arrange to get game materials for the make-up simulations from the instructors. Students are expected to complete the simulation and submit their reflections by the original due date, unless otherwise arranged with the teaching staff.
 
 ### Synchronous Lectures
 
-Students are required to attend all scheduled class sessions. Due to the nature of the course every class is meant to be synchronous. As noted above class participation is an important part of the class, and students are expected to be present synchronously for all lectures and negotiations. Sessions will be recorded and will be made available online for one week to help students stay up to date if they are unable to attend a class session. Recordings are only for use by students in the class. 
+Students are required to attend all scheduled class sessions. Due to the nature of the course every class is meant to be synchronous. As noted above class participation is an important part of the class, and students are expected to be present synchronously for all lectures and negotiations. Sessions will be recorded and will be made available online for one week to help students stay up to date if they are unable to attend a class session. \[Note: These recordings are not available to OCW users.\]
 
 ### Role Play Self-Reflection Memos
 
@@ -58,22 +60,11 @@ Following each negotiation simulation, all students are responsible for assessi
 
 ### Negotiating Partner Feedback 
 
-Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one-to-two-paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy Lidia.
-
-### Guidelines for Scenario Leaders
-
-Scenario leaders are responsible for preparing a 1–2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to canvas one day before class the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
-
-- Identify the choices that the stakeholders in the scenario must make;     
-- Determine which principles the stakeholders should (or might) rely on in making these choices;     
-- Identify what negotiation or consensus building strategies the stakeholders might pursue, based on their priorities; and    
-- Assess potential problems that the stakeholders may encounter. 
-
-Through the exchange of perspectives on these issues, students will have an opportunity to think hard about their personal theories of practice, improve their ability to analyze negotiation and dispute resolution  situations, and craft appropriate negotiation strategies. 
+Each student will be paired up at the beginning of the semester. After each RPS exercise, each student will provide a one-to-two-paragraph feedback (or a set of comments and suggestions) to her/his partner via email and copy the instructors.
 
 ### Video Presentations 
 
-Every student will be asked to make one video presentation. Once the class roster is final, each student will be assigned to one of the RPS exercises. On the day of the RPS exercise, each assigned student will be asked to video record one of the breakout groups conducting their negotiation exercise. This footage will then need to be edited into a “highlight reel” of no more than 5–6 minutes. Titles and subtitles can be added. The point of the video is to document how the videographer thinks the negotiators handled important aspects of the assignment. Each video producer will lead a short class discussion of his or her composite video.
+Every student will be asked to make one video presentation. Once the class roster is final, each student will be assigned to one of the RPS exercises. On the day of the RPS exercise, each assigned student will be asked to video-record one of the breakout groups conducting their negotiation exercise. This footage will then need to be edited into a “highlight reel” of no more than 5–6 minutes. Titles and subtitles can be added. The point of the video is to document how the videographer thinks the negotiators handled important aspects of the assignment. Each video producer will lead a short class discussion of his or her composite video. \[Note: These recordings are not available to OCW users.\]
 
 ## Grading Policies
 
