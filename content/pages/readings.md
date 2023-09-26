@@ -40,7 +40,7 @@ Miller, Alyson (2009). [*What Human-Centered Design Can Tell Us About the State
 
 Moore, Christopher W. (1986). "How Mediation Works" in *The Mediation Process: Practical Strategies for Resolving Conflict.* San Francisco: Jossey Bass. ISBN: 9780875896731.
 
-Nolon, Sean (2012). ["Second Best Practices?: Addressing Mediation’s Definitional Problems in Environmental Siting Disputes."](https://m.heinonline.org/HOL/Page?collection=journals&handle=hein.journals/idlr49&id=72&men_tab=srchresults) *Idaho Law Review* 49: 70–119.
+Nolon, Sean (2012). ["Second Best Practices?: Addressing Mediation’s Definitional Problems in Environmental Siting Disputes."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2209277) *Idaho Law Review* 49: 70–119.
 
 Raiffa, Howard (1982). *The Art and Science of Negotiation*. Cambridge, MA: Harvard University Press. ISBN: 9780674048126.
 
@@ -74,7 +74,7 @@ Susskind, Lawrence and Connie Ozawa (1984). ["Mediated Negotiation in the Publi
 
 Susskind, Lawrence and Jennifer Thomas-Larmer (1999). "Conducting a Conflict Assessment" in Lawrence Susskind, Sarah McKearnan, and Jennifer Thomas-Larmer (eds.), *The Consensus Building Handbook.* Thousand Oaks, CA: Sage. ISBN: 9780761908449.
 
-Thayer-Hart, Nancy (ed.) (2007). [*The Facilitator’s Tool Kit: A Guide for Helping Groups Get Results* (PDF).](https://riversedgewest.org/sites/default/files/resource-center-documents/Facilitator_Tool_Kit.pdf) University of Wisconsin System Board of Regents.
+Thayer-Hart, Nancy (ed.) (2007). [*The Facilitator’s Tool Kit: A Guide for Helping Groups Get Results* (PDF).](https://www.nj.gov/education/AchieveNJ/teams/strat14/FacilitatorToolKit.pdf) University of Wisconsin System Board of Regents.
 
 Thomas-Hunt, Melissa and Anya Malkov (2013), [“Social Norms and Stereotypes: What Happens When Everyone’s a Little Bit Sexist?”](http://wapppwire.blogspot.com/2013/04/social-norms-and-stereotypes-what.html) The WAPPP Wire, April 8, 2013.
 

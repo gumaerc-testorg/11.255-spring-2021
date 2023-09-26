@@ -8,7 +8,7 @@ uid: 4179d1c0-7094-4d60-ae8b-e4c80e993b15
 ---
 Every student is expected to come to class familiar with the assigned scenarios—when applicable—and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a 1–2 page (single spaced) framing memo and facilitating discussion about the scenario in small groups. 
 
-### Guidelines for Scenario Leaders
+## Guidelines for Scenario Leaders
 
 Scenario leaders are responsible for preparing a 1–2 page (single spaced) framing memo in advance of their assigned scenario. This memo is to be uploaded to the class site one day before the class in which the scenario will be discussed. The memo should clearly express the leader's ideas and approach to the scenario and serve as a template for facilitating a small group discussion. Drawing on the readings and class lectures, the small groups should analyze the scenario together. Scenario leaders should help the group: 
 
