@@ -40,11 +40,23 @@ Lawrence Susskind, *Good for You, Great for Me: Finding the Trading Zone and Win
 
 Participation in all of the role-play simulations is required. Short self-reflection memos reviewing the results of each of the negotiation simulations are required from all students for every game. RPS negotiations will be videotaped to enhance student learning. After each RPS exercise, students are required to provide written feedback (1–2 paragraphs) to their respective partners. 
 
+#### Sample of Student Work
+
+The following self-memo is included by permission:
+
+{{% resource_link "1f3bad22-cb07-414f-8f4b-2aeca81bc567" "Self-Reflection Memo on Parker v. Gibson" %}} by Joe Landis
+
 ### Scenarios
 
 Every student is expected to come to class familiar with the assigned scenarios—when applicable—and ready to apply the ideas covered in the assigned readings. Scenario leaders (each student will fill this role twice over the course of the semester) have the added responsibility of preparing a two-page framing memo in advance of the scenario and facilitating discussion about the scenario in small groups; see further guidelines below. 
 
 All negotiation self-reflection memos and scenario framing memos must be posted on the class site as PDF documents by the assigned due date. Please do not submit assignments as Word documents or in other formats.
+
+#### Sample of Student Work
+
+The following framing memo is included by permission:
+
+[Framing Memo on Scenario #1](https://draft.ocw.mit.edu/courses/11-255-negotiation-and-dispute-resolution-in-the-public-sector-spring-2021/resources/mit11_255s21_frame1_pdf/) by Joe Landis
 
 ### Making Up Missed Negotiation Simulations
 

@@ -13,3 +13,9 @@ The city issued new tax bills four months ago. The company's appeal for a reduct
 The company employs almost 300 people from all over the metropolitan area, and it would be a major blow to the local economy to lose it. The Governor has called the mayor to make sure that the town was doing everything possible to avoid driving the company out of the state. The Mayor has advised the Finance Department Director to do everything possible to keep the company in town, but understands that the new revaluation has been done "by the book" by one of the country's leading computer-aided mass appraisal companies and that "special deals" are illegal.
 
 The Finance Director is now thinking long and hard about how to handle this negotiation. What negotiation advice do you have for her? What sort of negotiation strategy (step by step) do you suggest?
+
+## Sample of Student Work
+
+The following framing memo is included by permission:
+
+{{% resource_link "9a200566-f380-4df6-a617-e94454aeb4b7" "Framing Memo on Scenario #1" %}} by Joe Landis
